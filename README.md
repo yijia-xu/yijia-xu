@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Yijia
 
-<!--
-**yijia-xu/yijia-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student @ Concordia
+- 💻 Interested in full-stack development, cloud, and AI
+- 📊 Also exploring data analysis, machine learning, and quantitative finance
+- 👯 I’m looking to collaborate with other developers
+- 😄 Pronouns: She/Her
+- ☕ Favorite drink: Matcha Latte
 
-Here are some ideas to get you started:
+### 🛠️ My Recent Project
+**Natours – Node.js Backend Web Application**  
+[🔗 View on GitHub](https://github.com/yijia-xu/Natours)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yijia-xu&layout=compact&theme=tokyonight)
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yijia-xu-9b1272259/)  
+[![Email](https://img.shields.io/badge/Email-informational?logo=gmail&logoColor=white)](mailto:yijiaxu.yjx@gmail.com)
