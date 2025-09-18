@@ -1,39 +1,43 @@
 # Hi 👋, I'm Yijia
 
 - 🎓 Computer Science student @ Concordia  
-- 💻 Interested in full-stack development, cloud, and AI  
-- 📊 Exploring data analysis, machine learning, and quantitative finance  
+- 💻 Software developer with 3+ years of project/work experience
+- 📊 Interested in full-stack development, cloud, and AI  
 - 👯 Looking to collaborate with other developers  
 - 😄 Pronouns: She/Her
 - 🍵 Favorite drink: Matcha Latte  
 
----
+
+
 
 ## 🛠️ My Projects
 
-### Natours – Node.js Full-stack Web Application   
-Tour booking Web Application with **RESTful API**, developed using **Node.js, Express, and MongoDB**.  
-[🔗 View on GitHub](https://github.com/yijia-xu/Natours)
+<div align="left">
+
+  <a href="https://github.com/yijia-xu/Natours">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=Natours&theme=radical"/>
+  </a>
+  <a href="https://github.com/yijia-xu/ClubManagerWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=ClubManagerWeb&theme=radical"/>
+  </a>
+
+  <a href="https://github.com/yijia-xu/java-enterprise-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=java-enterprise-dev&theme=radical"/>
+  </a>
+  <a href="https://github.com/yijia-xu/frontend-compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=frontend-compiler&theme=radical"/>
+  </a>
+
+  <a href="https://github.com/yijia-xu/realtime-building-access-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=realtime-building-access-control&theme=radical"/>
+  </a>
+  <a href="https://github.com/yijia-xu/stock-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=stock-management-system&theme=radical"/>
+  </a>
+
+</div>
 
 
-### ClubManagerWeb   
-A Membership Management Web App Built with **ASP.NET, C#, and Azure**.   
-[🔗 View on GitHub](https://github.com/yijia-xu/ClubManagerWeb)
-
-
-### Metronome Building Access Control System   
-A **realtime project in C** for controlling building access.    
-[🔗 View on GitHub](https://github.com/yijia-xu/metronome-building-access-controlntrol)
-
-### Frontend Compiler     
-A project in **C** for building a compiler frontend, including lexical analysis, parsing, and syntax tree construction for a custom language.   
-[🔗 View on GitHub](https://github.com/yijia-xu/frontend-compiler)
-
-### Java Enterprise Application      
-An Enterprise Applications developed with **Java, React, Netbeans and the Glassfish 5 Server**.   
-[🔗 View on GitHub](https://github.com/yijia-xu/java_enterprise_dev)
-
----
 
 ## ⚙️ Tech Stack
 
@@ -70,12 +74,16 @@ An Enterprise Applications developed with **Java, React, Netbeans and the Glassf
 
    
     
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=yijia-xu&show_icons=true&theme=radical"/>
+</div>
 
-[![Yijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijia-xu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
----
+
+<img src="https://komarev.com/ghpvc/?username=yijia-xu&color=ff1493" style="display:none;">
+
+
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yijia-xu-9b1272259/)  
-[![Email](https://img.shields.io/badge/Email-informational?logo=gmail&logoColor=white)](mailto:yijiaxu.yjx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yijia-xu-9b1272259/)   [![Email](https://img.shields.io/badge/Email-informational?logo=gmail&logoColor=white)](mailto:yijiaxu.yjx@gmail.com)
 
