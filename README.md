@@ -24,9 +24,10 @@
   <a href="https://github.com/yijia-xu/java-enterprise-dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=java-enterprise-dev&theme=radical"/>
   </a>
-  <a href="https://github.com/yijia-xu/frontend-compiler">
+    <a href="https://github.com/yijia-xu/frontend-compiler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=frontend-compiler&theme=radical"/>
   </a>
+
 
   <a href="https://github.com/yijia-xu/realtime-building-access-control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yijia-xu&ver=2&repo=realtime-building-access-control&theme=radical"/>
@@ -73,10 +74,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
    
-    
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yijia-xu&show_icons=true&theme=radical"/>
-</div>
+  
 
 
 <img src="https://komarev.com/ghpvc/?username=yijia-xu&color=ff1493" style="display:none;">
