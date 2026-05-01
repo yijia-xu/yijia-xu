@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student @ Concordia  
 - 💻 Software developer with 3+ years of project/work experience
-- 📊 Interested in full-stack development, cloud, and AI  
+- 📊 Interested in AI Agent Development and Software Engineering  
 - 👯 Looking to collaborate with other developers  
 - 😄 Pronouns: She/Her
 - 🍵 Favorite drink: Matcha Latte  
