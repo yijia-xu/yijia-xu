@@ -33,7 +33,9 @@ if me.is_available_for_fall_2026_internship():
     me.current_mission()
 ```
 
-![Yijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yijia-xu&show_icons=true&theme=radical)
+![Yijia's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yijia-xu&show_icons=true&theme=tokyonight)
+![Yijia's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=yijia-xu&show_icons=true&theme=tokyonight)
+
 
 ## 🔗 Connect with Me
 
